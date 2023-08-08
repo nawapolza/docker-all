@@ -1,0 +1,27 @@
+/* h4{
+  color: #333;
+  background-color: aquamarine;
+  text-align: center;
+  font-size: 50px;
+  font-family:sans-serif;
+  font-weight: bold;s
+} */
+h1{
+  border-color: red;
+  margin: 25px;
+  padding: 25px;
+  display: flex;
+  opacity: 0.1;;
+  background-color:#9b59b6;
+
+  color:#3498db;
+  font-size:100px;
+}
+
+
+h2{
+  border:red;
+background-color: black;
+color:red;
+
+}
